@@ -1,0 +1,50 @@
+﻿  sprite.cpp
+C:\Users\Alex\Projects\C++\Game\Slengine\src\slengine\sprite.cpp(7,37): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alex\Projects\C++\Game\Slengine\src\slengine\sprite.cpp(7,54): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alex\Projects\C++\Game\Slengine\src\slengine\sprite.cpp(49,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  spritebatch.cpp
+  Generating Code...
+window.obj : warning LNK4006: "public: static struct Texture __cdecl Resource::getTexture(char const *)" (?getTexture@Resource@@SA?AUTexture@@PBD@Z) already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_load_from_memory already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_load_from_callbacks already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_load already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_load_from_file already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_load_gif_from_memory already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_load_16_from_memory already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_load_16_from_callbacks already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_load_16 already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_load_from_file_16 already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_loadf_from_memory already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_loadf_from_callbacks already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_loadf already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_loadf_from_file already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_hdr_to_ldr_gamma already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_hdr_to_ldr_scale already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_ldr_to_hdr_gamma already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_ldr_to_hdr_scale already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_is_hdr_from_callbacks already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_is_hdr_from_memory already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_is_hdr already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_is_hdr_from_file already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_failure_reason already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_image_free already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_info_from_memory already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_info_from_callbacks already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_is_16_bit_from_memory already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_is_16_bit_from_callbacks already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_info already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_info_from_file already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_is_16_bit already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_is_16_bit_from_file already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_set_unpremultiply_on_load already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_convert_iphone_png_to_rgb already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_set_flip_vertically_on_load already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_set_flip_vertically_on_load_thread already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_zlib_decode_malloc_guesssize already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_zlib_decode_malloc_guesssize_headerflag already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_zlib_decode_malloc already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_zlib_decode_buffer already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_zlib_decode_noheader_malloc already defined in window.obj; second definition ignored
+window.obj : warning LNK4006: _stbi_zlib_decode_noheader_buffer already defined in window.obj; second definition ignored
+resource.obj : warning LNK4006: "private: static class std::map<char const *,struct Texture,struct std::less<char const *>,class std::allocator<struct std::pair<char const * const,struct Texture> > > Resource::textures" (?textures@Resource@@0V?$map@PBDUTexture@@U?$less@PBD@std@@V?$allocator@U?$pair@QBDUTexture@@@std@@@3@@std@@A) already defined in window.obj; second definition ignored
+  Slengine.vcxproj -> C:\Users\Alex\Projects\C++\Game\Debug\Slengine.lib

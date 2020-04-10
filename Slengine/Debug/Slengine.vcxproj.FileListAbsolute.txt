@@ -1,0 +1,2 @@
+C:\Users\Alex\Projects\C++\Game\Debug\Slengine.pdb
+C:\Users\Alex\Projects\C++\Game\Slengine\Debug\Slengine.pdb

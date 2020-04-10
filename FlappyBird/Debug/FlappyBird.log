@@ -1,0 +1,3 @@
+﻿  bird.cpp
+C:\Users\Alex\Projects\C++\Game\FlappyBird\src\bird.cpp(28,26): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  FlappyBird.vcxproj -> C:\Users\Alex\Projects\C++\Game\Debug\FlappyBird.exe

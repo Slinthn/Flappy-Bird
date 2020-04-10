@@ -1,0 +1,16 @@
+﻿  game.cpp
+C:\Users\Alex\Projects\C++\Game\FlappyBird\src\game.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alex\Projects\C++\Game\FlappyBird\src\game.cpp(35,9): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alex\Projects\C++\Game\FlappyBird\src\game.cpp(57,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Projects\C++\Game\FlappyBird\src\game.cpp(57,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Projects\C++\Game\FlappyBird\src\game.cpp(58,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Projects\C++\Game\FlappyBird\src\game.cpp(58,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Projects\C++\Game\FlappyBird\src\game.cpp(74,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  2 of 466 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+Slengine.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'Slengine.lib(glew.obj)' or at 'C:\Users\Alex\Projects\C++\Game\Release\vc120.pdb'; linking object as if no debug info
+  FlappyBird.vcxproj -> C:\Users\Alex\Projects\C++\Game\Release\FlappyBird.exe
